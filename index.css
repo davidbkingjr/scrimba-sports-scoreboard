@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    text-align: center;
+    background: #1B244A;
+}
+
+.score {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    border-radius: 5px;
+}
+
+h3 {
+    color: #EEEEEE;
+}
+
+button {
+    background: none;
+    border: 2px solid #9AABD8;
+    border-radius: 5px; 
+    color: #EEEEEE;
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
