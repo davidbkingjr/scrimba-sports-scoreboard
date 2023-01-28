@@ -38,6 +38,8 @@
  // New Game
  
  function newGame() {
+     homeNum = 0
+     awayNum = 0
      homeScore.textContent = 0
      awayScore.textContent = 0
  }
